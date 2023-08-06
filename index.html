@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>tunes</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="vendored/abcjs-audio.css" />
+    <script src="vendored/abcjs-basic-min.js" type="text/javascript"></script>
+    <script src="main.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div class="header">
+      <span id="title">TUNES</span>
+      <div id="audio" class="hidden"></div>
+    </div>
+    <input type="checkbox" name="" id="sidebar-button" />
+    <label for="sidebar-button" class="sidebar-icon">
+      <div class="sidebar-icon-line"></div>
+      <div class="sidebar-icon-line"></div>
+      <div class="sidebar-icon-line"></div>
+    </label>
+    <div id="sidebar">
+      <ul id="tune-list"></ul>
+    </div>
+    <div class="main">
+      <div id="paper"></div>
+    </div>
+  </body>
+</html>

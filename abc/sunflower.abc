@@ -1,0 +1,17 @@
+X:1
+T:sunflower
+K: G
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=110
+M:4/4
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z8 | z8 | z8 | z8 | %4
+ |: g8- | g4 a>g- ga | b2- ba/g/ e2 g2- | g4 z e g<a | %8
+ d'4{/_b} =b4 | ab/a/ ge g>a- ag- | g8- | g4 z d e/d/e :| g2- gG- G4 |] %13
+V:2
+ !p! [G,B,D]>[G,B,D] z [G,B,D] [G,CE]2 [G,CE]2 | [G,B,D]>[G,B,D] z [G,B,D] [F,CD]2 [F,CD]2 | [G,B,D]>[G,B,D] z [G,B,D] [G,CE]2 [G,CE]2 | [G,B,D]>[G,B,D] z [G,B,D] [F,CD]2 [F,CD]2 | %4
+ |: [G,B,D]>[G,B,D] z [G,B,D] [G,CE]2 [G,CE]2 | [G,B,D]>[G,B,D] z [G,B,D] [F,CD]2 [F,CD]2 | [G,B,D]>[G,B,D] z [G,B,D] [G,CE]2 [G,CE]2 | [G,B,D]>[G,B,D] z [G,B,D] [F,CD]2 [F,CD]2 | %8
+ [G,B,D]>[G,B,D] z [G,B,D] [G,CE]2 [G,CE]2 | [G,B,D]>[G,B,D] z [G,B,D] [F,CD]2 [F,CD]2 | [G,B,D]>[G,B,D] z [G,B,D] [G,CE]2 [G,CE]2 | [G,B,D]>[G,B,D] z [G,B,D] [F,CD]2 [F,CD]2 :| [G,B,D]8 |] %13

@@ -1,0 +1,14 @@
+X:1
+T:spoons
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=80
+M:4/4
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ [CEG]>C z [CDF]- [CDF]2 D/C/A, | C>D z F- F/C/A,- A,G, | %2
+ [G,C]>[G,C] z [^F,D]- [F,D]2 A,2 | E/C/A,/_A,/ z [E,G,C]- [E,G,C]4 |] %4
+V:2
+ [C,,C,]2 z [_B,,F,_B,]- [B,,F,B,]4 | [C,E,G,]3 [C,F,A,]- [C,F,A,]4 | %2
+ [C,,C,]>[C,,C,] z [D,,D,]- [D,,D,]4 | [A,,A,]>[F,,F,] z [C,,C,]- [C,,C,]4 |] %4
