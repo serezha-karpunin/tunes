@@ -1,0 +1,15 @@
+X:1
+T:jacket
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ g2 eB ege_e- | ed_ef- fdc_B | B2 ^FG ded^f- | fab=f- f2 _e=e- | %4
+e3 d AG-G^F | d3 d- ddeB- | B4 z2 z B | c_ef_b- b2 _a2 | g3 c- c4 |] %9
+V:2
+ !p! [C,E,G,B,]6- [C,E,G,B,][C,_E,G,_B,]- | [C,E,G,B,]3 [C,_E,F,A,]- [C,E,F,A,]4 | [D,^F,G,B,]6- [D,F,G,B,][D,F,A,B,]- | [D,F,A,B,]3 [D,=F,_A,_B,]- [D,F,A,B,]4 |
+[C,E,G,A,]8 | [C,D,^F,A,]8 | [D,^F,G,B,]8 | [_E,F,_A,C]3 [D,F,A,_B,]- [D,F,A,B,]4 | [C,E,G,B,]8 |] %9
