@@ -1,0 +1,15 @@
+X:1
+T:dirt
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=110
+M:4/4
+K:Cmin
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z8 | [G,CE]2 z2 [_G,CE]z[A,DF] z | z [G,CE] z/ [G,CE] z/ [_G,CE]/z/[G,CE]/ z/ z [A,DF] | %3
+ z [G,CE] z/ [G,CE] z/ [_G,CE]/z/[G,CE]/ z/ [A,DF]/z/[A,DF]/[A,DF]/ | z [G,CE] z/ [G,CE] z/ [_G,CE]z[A,DF] z | [G,CE]2 z2 z4 |] %6
+V:2
+ C,,C,G,,C, A,,C,B,,C, | C,,C,G,,C, A,,C,B,,C, | C,,C,G,,C, A,,C,B,,C, | %3
+ C,,C,G,,C, A,,C,B,,C, | C,,C,G,,C, A,,C,B,,C, | C,,2 z2 z4 |] %6
